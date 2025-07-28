@@ -1,0 +1,1 @@
+# Sentiment-Trajectory-Analyzer
